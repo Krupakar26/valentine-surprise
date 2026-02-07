@@ -25,4 +25,4 @@ npm run dev
 
 ```
 http://localhost:5173
-```
+```Update for deployment
